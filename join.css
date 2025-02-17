@@ -1,0 +1,100 @@
+body {
+    margin-right:320px;
+    padding: 50px;
+    background-image: url(https://img.freepik.com/free-vector/pink-green-watercolor-patterned-background-template_53876-115317.jpg);
+    align-items: center;
+    display: flex;
+    float: right;
+}
+.form{
+    align-items:center;
+    width:250px;
+    height:400px;
+    background:linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
+    border-radius:10px;
+    padding:55px;
+    float:center;
+    margin-top: 40px;
+  }
+  .form h2{
+    align-items: center;
+    width: 220px;
+   font-family: sans-serif;
+  text-align: center;
+  font-size: 22px; 
+    background-color: #EFCDA3;
+  border-radius: 10px;
+  margin: 2px; 
+   padding: 8px;
+  }
+  .form input{
+  width: 240px;
+  height: 35px;
+  background: transparent;
+  border-bottom: 1px solid #8AA484;
+  border-top: none;
+  border-right: none;
+    border-left:none;
+    color:#8AA484;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-top: 30px; 
+  font-family: sans-serif;
+  }
+  .form input:focus{
+    outline:none;
+  }
+  ::placeholder{
+    color:bisque;
+    font-family:Arial;
+  }
+  .btnn{
+    width: 240px;
+  height: 40px;
+  background: #8AA484;
+  border: none; margin-top: 30px;
+  font-size: 18px; border-radius: 10px;
+  cursor: pointer;
+  color: #8AA484;
+    transition:0.4s ease;
+  }
+  .btnn.hover{
+    background:bisque;
+    color:bisque;
+  }
+  .btnn a{
+    text-decoration:none;
+    color:bisque;
+    font-weight:bold;
+  }
+  .form .link{
+  font-family: Arial, Helvetica, sans-serif; 
+    font-size: 17px;
+  padding-top: 20px; 
+    text-align: center;
+  }
+  
+  .form .link a{
+    text-decoration: none;
+    color: bisque;
+  }
+  
+  .liw{
+  padding-top: 15px; 
+    padding-bottom: 10px; 
+    text-align: center;
+   
+  }
+  #Account{
+    color: #9D573D;
+  }
+  #LOG{
+    color: #9D573D;
+  }
+  .icon{
+    padding-left: 85px;
+    
+  }
+  .icon a{
+    color: bisque;
+  }

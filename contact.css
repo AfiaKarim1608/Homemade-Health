@@ -1,0 +1,101 @@
+body {
+    margin-right: 0;
+    padding: 0;
+    background-image: url(https://img.freepik.com/free-vector/pink-green-watercolor-patterned-background-template_53876-115317.jpg);
+  }
+  
+  .main {
+      width: 100%;
+      background-color : linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%) ;
+      background-position: center;
+      background-size: cover;
+      height: 100vh;
+  }
+  
+  .navbar {
+      width: 1000px;
+      height: 75px;
+      margin: auto;
+    background-color:#6d7a62;
+  }
+  
+  .icon {
+      width: 00px;
+      height: 70px;
+      float: left;
+  }
+  
+  .logo {
+      align-items:center;
+      color: white;
+      font-size: 35px;
+      font-family:Orange Overstated ;
+     padding-left:20px;
+     padding-top:0px;
+      float: left;
+    }
+  .icon {
+      width: 300px;
+      height: 90px;
+      float: left;
+     align-items:center;
+  }
+  
+  ul {
+      display: flex;
+      justify-content: center;
+      float: left;
+      align-items: center;
+  }
+  ul li{
+    list-style:none;
+    margin-left:20px;
+    margin-top:25px;
+    font-size:14px;
+  }
+  ul li a{
+    text-decoration:none;
+    color:white;
+    font-family:Comic sans MS;
+    font-weight:bold;
+    transition:0.4s;
+    background-color:grey;
+  }
+  .hd{
+    
+    margin-bottom: 30vh;
+    text-align: center;
+    margin-right: 300px;
+
+  }
+
+.frm{
+margin-top:-23vh ;
+    
+} 
+input{
+display: block; 
+width: 350px;
+height: 40px;
+margin: 20px;
+border: none; 
+outline: none;
+font-size: 20px;
+text-align: center;
+}
+button{
+    width: 350px;
+height: 40px;
+margin: 20px;
+border: none; 
+outline: none;
+font-size: 20px;
+text-align: center;
+background-color: bisque;
+}
+.btn a{
+    text-decoration: none;
+}
+.hd h2{
+    color:#6d7a62;
+}

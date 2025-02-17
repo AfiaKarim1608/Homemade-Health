@@ -1,0 +1,96 @@
+body {
+    margin-right: 0;
+    padding: 0;
+    background-image: url(https://img.freepik.com/free-vector/pink-green-watercolor-patterned-background-template_53876-115317.jpg);
+  }
+  .head{
+    color: rgb(108, 25, 25);
+    font-size:xx-large;
+    font-family: comic sans ms;
+  }
+  .hd{
+    color: rgb(108, 25, 25);
+    font-size:larger;
+    font-family: comic sans ms;
+    font-weight: bold;
+  }
+  .abc{
+    color: rgb(76, 94, 83);
+    font-size: larger;
+    font-family: Comic sans ms;
+    font-weight: bold;
+  }
+  .abc img{
+    width: 300px;
+    margin-left: 460px;
+  }
+  .crrt{
+    color: rgb(76, 94, 83);
+    font-size: larger;
+    font-family: Comic sans ms;
+    font-weight: bold;
+  }
+  .crrt img{
+    width: 300px;
+    margin-left: 460px;
+  }
+  .health{
+    color: rgb(76, 94, 83);
+    font-size: larger;
+    font-family: Comic sans ms;
+    font-weight: bold;
+  }
+  .health img{
+    width: 300px;
+    margin-left: 460px;
+  }
+  .cff{
+    color: rgb(76, 94, 83);
+    font-size: larger;
+    font-family: Comic sans ms;
+    font-weight: bold;
+  }
+  .cff img{
+    width: 300px;
+    margin-left: 460px;
+  }
+  .fsld{
+    color: rgb(76, 94, 83);
+    font-size: larger;
+    font-family: Comic sans ms;
+    font-weight: bold;
+  }
+  .fsld img{
+    width: 300px;
+    margin-left: 460px;
+  }
+  .oats{
+    color: rgb(76, 94, 83);
+    font-size: larger;
+    font-family: Comic sans ms;
+    font-weight: bold;
+  }
+  .oats img{
+    width: 300px;
+    margin-left: 460px;
+  }
+  .smth{
+    color: rgb(76, 94, 83);
+    font-size: larger;
+    font-family: Comic sans ms;
+    font-weight: bold;
+  }
+  .smth img{
+    width: 300px;
+    margin-left: 460px;
+  }
+  .corn{
+    color: rgb(76, 94, 83);
+    font-size: larger;
+    font-family: Comic sans ms;
+    font-weight: bold;
+  }
+  .corn img{
+    width: 300px;
+    margin-left: 460px;
+  }

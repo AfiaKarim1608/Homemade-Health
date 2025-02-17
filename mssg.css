@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/pink-green-watercolor-patterned-background-template_53876-115317.jpg);
+    margin-top: 85px;
+    box-sizing: border-box;
+    font-family: comic sans ms;
+    color: rgb(128, 66, 66);
+    font-size: larger;
+}
+.msg{
+    margin-top: 85px;
+    box-sizing: border-box;
+    font-family: comic sans ms;
+    font-size: larger;
+    color:rgb(128, 66, 66);
+}
